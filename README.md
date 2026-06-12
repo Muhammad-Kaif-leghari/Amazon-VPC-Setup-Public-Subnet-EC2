@@ -3,6 +3,24 @@
 ## 📌 Project Overview
 This repository documents the custom creation and network governance setup for an isolated cloud network environment using Amazon Virtual Private Cloud (VPC). The project focuses on custom subnet allocation, traffic routing mechanics, internet gateway configuration, and safeguarding internet-facing compute nodes using security group firewalls.
 
+---
+
+## 🗺️ Network Architecture Diagram
+Below is the structural topography engineered for this deployment:
+
+<div align="center">
+  <img src="vpc-architecture.png" alt="AWS VPC Architecture Diagram" width="700"/>
+</div>
+
+---
+
+## 📚 Detailed Step-by-Step Documentation
+For an exhaustive, hands-on walkthrough containing configuration steps, CLI mechanics, and deployment workflows, you can view or download the complete project report directly:
+
+📁 **[Download the Step-by-Step Project PDF Report](./Implementing-a-Secure-and-Scalable-VPC-on-AWS.pdf)**
+
+---
+
 ## 🏗️ Network Architecture Design
 The network infrastructure is built from the ground up to ensure structural isolation and efficient packet routing:
 * **Custom VPC:** Provisioned a secure cloud network named `kaif-vpc-version1project`.
