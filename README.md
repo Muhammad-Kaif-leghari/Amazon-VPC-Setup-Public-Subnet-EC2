@@ -17,7 +17,9 @@ Below is the structural topography engineered for this deployment:
 ## 📚 Detailed Step-by-Step Documentation
 For an exhaustive, hands-on walkthrough containing configuration steps, CLI mechanics, and deployment workflows, you can view or download the complete project report directly:
 
-📁 **[Download the Step-by-Step Project PDF Report](./Implementing-a-Secure-and-Scalable-VPC-on-AWS.pdf?raw=true)**
+📥 **[Click Here to Download the Full PDF Report](./Implementing-a-Secure-and-Scalable-VPC-on-AWS.pdf?raw=true)**
+
+*(Note: If GitHub's online preview fails to load above, use the download link to open the full documentation locally.)*
 
 ---
 
